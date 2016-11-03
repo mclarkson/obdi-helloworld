@@ -1,0 +1,6 @@
+{
+  "name": "Obdi-helloworld",
+  "tagline": "Parent of the helloworld plugins.",
+  "body": "# obdi-helloworld\r\nObdi plugin providing the base Helloworld plugin required by all Helloworld plugins.\r\n\r\nIf this plugin is not installed with other Helloworld plugins then they will continue to work as normal, and their REST interfaces can be used, but there will be no way to view the Helloworld plugins in the Web Interface.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
